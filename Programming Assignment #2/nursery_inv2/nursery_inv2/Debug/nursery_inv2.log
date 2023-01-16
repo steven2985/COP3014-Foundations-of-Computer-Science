@@ -1,0 +1,4 @@
+﻿  nursery_inv2.cpp
+C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #2\nursery_inv2\nursery_inv2\nursery_inv2.cpp(138,6): warning C4101: 'quantity': unreferenced local variable
+C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #2\nursery_inv2\nursery_inv2\nursery_inv2.cpp(137,9): warning C4101: 'netCost': unreferenced local variable
+  nursery_inv2.vcxproj -> C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #2\nursery_inv2\Debug\nursery_inv2.exe

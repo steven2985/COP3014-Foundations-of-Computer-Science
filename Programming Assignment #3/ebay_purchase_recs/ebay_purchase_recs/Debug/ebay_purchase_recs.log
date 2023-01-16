@@ -1,0 +1,3 @@
+﻿  ebay_purchase_recs.cpp
+C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #3\ebay_purchase_recs\ebay_purchase_recs\ebay_purchase_recs.cpp(148,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  ebay_purchase_recs.vcxproj -> C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #3\ebay_purchase_recs\Debug\ebay_purchase_recs.exe
