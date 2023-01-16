@@ -1,0 +1,4 @@
+﻿  nursery_inv3.cpp
+C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #5\nursery_inv3\nursery_inv3\nursery_inv3.cpp(159,6): warning C4101: 'quantity': unreferenced local variable
+C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #5\nursery_inv3\nursery_inv3\nursery_inv3.cpp(158,9): warning C4101: 'netCost': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #5\nursery_inv3\Debug\nursery_inv3.exe for writing

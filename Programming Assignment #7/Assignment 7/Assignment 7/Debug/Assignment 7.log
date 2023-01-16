@@ -1,0 +1,4 @@
+﻿  charword_freq.cpp
+C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #7\Assignment 7\Assignment 7\charword_freq.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #7\Assignment 7\Assignment 7\charword_freq.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+  Assignment 7.vcxproj -> C:\Users\Microsoft Customer\Desktop\COP3014 Foundations of Computer Science\Programming Assignment #7\Assignment 7\Debug\Assignment 7.exe
